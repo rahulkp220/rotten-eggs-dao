@@ -1,6 +1,7 @@
 # RottenEggsDAO
-A DAO(Decentralised Autonomous Organisation) build using [thethirdweb](https://thirdweb.com/) and Javascript
+A sample DAO(Decentralised Autonomous Organisation) token with 100,000 supply and `ROTEGG` as its name!
 
+Check out the actual site [here](https://wonderful-noyce-b7e859.netlify.app/)
 ![rotten-eggs-dao](screenshots/rotten-eggs-dao.png)
 
 ### Installation
@@ -8,3 +9,8 @@ A DAO(Decentralised Autonomous Organisation) build using [thethirdweb](https://t
 npm install
 npm run start
 ```
+ 
+### Built With
+- [Buildspace.so]((https://www.buildspace.so/))
+- [thethirdweb](https://www.thirdweb.com/)
+- [Alchemy](https://www.alchemyapi.com)
